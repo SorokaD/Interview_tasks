@@ -1,0 +1,1239 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
+Subject: UCI Machine Learning Repository: Drug consumption (quantified) Data Set
+Date: Sat, 22 Jan 2022 18:23:12 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q----"
+
+
+------MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q----
+Content-Type: text/html
+Content-ID: <frame-B10AEC4ED020C038432EEE120DC02E05@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
+
+<!DOCTYPE html><html class=3D" FB_FW_ext Bco"><head><meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html; charset=3DUTF-8">
+<title>UCI Machine Learning Repository: Drug consumption (quantified) Data =
+Set</title>
+
+<!-- Stylesheet link -->
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://archive.ics.uci.=
+edu/ml/assets/ml.css">
+
+
+
+</head>
+
+<body>
+
+
+<!-- SITE HEADER (INCLUDES LOGO AND SEARCH BOX) -->
+
+<table width=3D"100%" bgcolor=3D"#003366">
+<tbody><tr>
+	<td>
+		<span class=3D"normal"><a href=3D"https://archive.ics.uci.edu/ml/index.ht=
+ml" alt=3D"Home"><img src=3D"https://archive.ics.uci.edu/ml/assets/logo.gif=
+" border=3D"0"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;<a href=3D"http://cml.ics.uci.edu/"><font color=3D"FFDD33">Center for Mac=
+hine Learning and Intelligent Systems</font></a></span>
+	</td>
+	<td width=3D"100%" valign=3D"top" align=3D"right">
+		<span class=3D"whitetext">
+		<a href=3D"https://archive.ics.uci.edu/ml/about.html">About</a>&nbsp;
+		<a href=3D"https://archive.ics.uci.edu/ml/citation_policy.html">Citation =
+Policy</a>&nbsp;
+		<a href=3D"https://archive.ics.uci.edu/ml/donation_policy.html">Donate a =
+Data Set</a>&nbsp;
+		<a href=3D"https://archive.ics.uci.edu/ml/contact.html">Contact</a>
+		</span>
+
+		<br>
+		<br>
+		<!-- Search Google -->
+
+		<form method=3D"GET" action=3D"https://www.google.com/custom">
+		<input type=3D"text" name=3D"q" size=3D"30" maxlength=3D"255" value=3D"">
+		<input type=3D"submit" name=3D"sa" value=3D"Search">
+	=09
+	=09
+		<br>
+		<input type=3D"radio" name=3D"sitesearch" value=3D"ics.uci.edu" checked=
+=3D""> <span class=3D"whitetext"><font size=3D"1">Repository</font></span>
+		<input type=3D"radio" name=3D"sitesearch" value=3D""> <span class=3D"whit=
+etext"><font size=3D"1">Web</font></span>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href=3D"https://www.google.com/search"><img src=3D"https://www.google.=
+com/logos/Logo_25blk.gif" border=3D"0" alt=3D"Google" align=3D"middle" heig=
+ht=3D"27"></a>
+		<br>
+		</form>
+		<!-- Search Google -->
+
+
+		<span class=3D"whitetext"><a href=3D"https://archive.ics.uci.edu/ml/datas=
+ets.php"><font size=3D"3" color=3D"#FFDD33"><b>View
+ALL Data Sets</b></font></a></span>
+		<br>
+	</td>
+</tr>
+</tbody></table>
+
+
+<br>
+
+<div style=3D"background-color:#6E4100; color:white; padding:20px; margin-b=
+ottom:8px">
+	  <span style=3D"float:right; cursor:pointer; margin-left: 8px; font-size:=
+x-large; line-height:16px"><strong>=C3=97</strong></span>
+	  Check out the <a target=3D"_blank" href=3D"https://archive-beta.ics.uci.=
+edu/" style=3D"color:white">beta version</a> of the new UCI Machine Learnin=
+g Repository we are currently testing! <a target=3D"_blank" href=3D"https:/=
+/archive-beta.ics.uci.edu/ml/contact" style=3D"color:white">Contact us</a> =
+if you have any issues, questions, or concerns. <a target=3D"_blank" href=
+=3D"https://archive-beta.ics.uci.edu/" style=3D"color:white">Click here to =
+try out the new site</a>.
+</div>
+
+<table width=3D"100%" border=3D"0" cellpadding=3D"2"><tbody><tr><td>
+
+   <table><tbody><tr>
+     <td valign=3D"top">
+	<p>
+	<span class=3D"heading"><b>Drug consumption (quantified) Data Set</b></spa=
+n>
+	<br><span class=3D"normal"><i><font size=3D"4">Download</font></i>: <a hre=
+f=3D"https://archive.ics.uci.edu/ml/machine-learning-databases/00373/"><fon=
+t style=3D"BACKGROUND-COLOR: #FFFFAA" size=3D"4">Data Folder</font></a>, <a=
+ href=3D"https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quanti=
+fied%29#"><font style=3D"BACKGROUND-COLOR: #FFFFAA" size=3D"4">Data Set Des=
+cription</font></a></span></p>
+
+	<p class=3D"normal"><b>Abstract</b>: Classify type of drug consumer by per=
+sonality data</p>
+     </td>
+     <td> </td>
+   </tr></tbody></table>
+
+<table border=3D"1" cellpadding=3D"6">
+	<tbody><tr>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Data Set Characteristics:&=
+nbsp;&nbsp;</b></p></td>
+		<td><p class=3D"normal">Multivariate</p></td>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Number of Instances:</b></=
+p></td>
+		<td><p class=3D"normal">1885</p></td>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Area:</b></p></td>
+		<td><p class=3D"normal">Social</p></td>
+	</tr>
+
+	<tr>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Attribute Characteristics:=
+</b></p></td>
+		<td><p class=3D"normal">Real</p></td>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Number of Attributes:</b><=
+/p></td>
+		<td><p class=3D"normal">32</p></td>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Date Donated</b></p></td>
+		<td><p class=3D"normal">2016-10-17</p></td>
+	</tr>
+	<tr>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Associated Tasks:</b></p><=
+/td>
+		<td><p class=3D"normal">Classification</p></td>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Missing Values?</b></p></t=
+d>
+		<td><p class=3D"normal">N/A</p></td>
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Number of Web Hits:</b></p=
+></td>
+		<td><p class=3D"normal">168774</p></td>
+	</tr>
+	<!--
+	<tr>
+
+		<td bgcolor=3D"#DDEEFF"><p class=3D"normal"><b>Highest Percentage Achieve=
+d:&nbsp;&nbsp;</b></p></td>
+		<td><p class=3D"normal">N/A</p></td>
+	</tr>
+	-->
+</tbody></table>
+
+
+<br>
+
+<p class=3D"small-heading"><b>Source:</b></p>
+<p class=3D"normal">Original Owners of Database:=20
+<br>
+<br>1. Elaine Fehrman,
+<br>Men's Personality Disorder and National Women's Directorate,=20
+<br>Rampton Hospital, Retford,=20
+<br>Nottinghamshire, DN22 0PD, UK,=20
+<br><u>Elaine.Fehrman <b>'@'</b> nottshc.nhs.uk</u>
+<br>
+<br>2. Vincent Egan,
+<br>Department of Psychiatry and Applied Psychology,=20
+<br>University of Nottingham,=20
+<br>Nottingham, NG8 1BB, UK,=20
+<br><u>Vincent.Egan <b>'@'</b> nottingham.ac.uk</u>
+<br>
+<br>3. Evgeny M. Mirkes
+<br>Department of Mathematics,=20
+<br>University of Leicester,=20
+<br>Leicester, LE1 7RH, UK,=20
+<br><u>em322 <b>'@'</b> le.ac.uk</u>
+<br>
+<br>Donor:
+<br>Evgeny M. Mirkes
+<br>Department of Mathematics,=20
+<br>University of Leicester,=20
+<br>Leicester, LE1 7RH, UK,=20
+<br><u>em322 <b>'@'</b> le.ac.uk</u>
+<br></p>
+
+<br>
+
+<p class=3D"small-heading"><b>Data Set Information:</b></p>
+<p class=3D"normal">Database contains records for 1885 respondents. For eac=
+h respondent 12 attributes are known: Personality measurements which includ=
+e NEO-FFI-R (neuroticism, extraversion, openness to experience, agreeablene=
+ss, and conscientiousness), BIS-11 (impulsivity), and ImpSS (sensation seek=
+ing), level of education, age, gender, country of residence and ethnicity. =
+All input attributes are originally categorical and are quantified. After q=
+uantification values of all input features can be considered as real-valued=
+. In addition, participants were questioned concerning their use of 18 lega=
+l and illegal drugs (alcohol, amphetamines, amyl nitrite, benzodiazepine, c=
+annabis, chocolate, cocaine, caffeine, crack, ecstasy, heroin, ketamine, le=
+gal highs, LSD, methadone, mushrooms, nicotine and volatile substance abuse=
+ and one fictitious drug (Semeron) which was introduced to identify over-cl=
+aimers. For each drug they have to select one of the answers: never used th=
+e drug, used it over a decade ago, or in the last decade, year, month, week=
+, or day.<br>Database contains 18 classification problems. Each of independ=
+ent label variables contains seven classes: "Never Used", "Used over a Deca=
+de Ago", "Used in Last Decade", "Used in Last Year", "Used in Last Month", =
+"Used in Last Week", and "Used in Last Day".<br><br>Problem which can be so=
+lved:<br>* Seven class classifications for each drug separately.<br>* Probl=
+em can be transformed to binary classification by union of part of classes =
+into one new class. For example, "Never Used", "Used over a Decade Ago" for=
+m class "Non-user" and all other classes form class "User".<br>* The best b=
+inarization of classes for each attribute.<br>* Evaluation of risk to be dr=
+ug consumer for each drug.<br><br>Detailed description of database and proc=
+ess of data quantification are presented in E. Fehrman, A. K. Muhammad, E. =
+M. Mirkes, V. Egan and A. N. Gorban, "The Five Factor Model of personality =
+and evaluation of drug consumption risk.," arXiv <a href=3D"https://arxiv.o=
+rg/abs/1506.06297">[Web Link]</a>, 2015<br>Paper above solve binary classif=
+ication problem for all drugs. For most of drugs sensitivity and specificit=
+y are greater than 75%.<br></p>
+
+<br>
+
+<p class=3D"small-heading"><b>Attribute Information:</b></p>
+<p class=3D"normal">1. ID is number of record in original database. Cannot =
+be related to participant. It can be used for reference only.
+<br>
+<br>2. Age (Real) is age of participant and has one of the values:
+<br>     Value    Meaning Cases Fraction
+<br>     -0.95197 18-24   643   34.11%
+<br>     -0.07854 25-34   481   25.52%
+<br>      0.49788 35-44   356   18.89%
+<br>      1.09449 45-54   294   15.60%
+<br>      1.82213 55-64    93    4.93%
+<br>      2.59171 65+      18    0.95%
+<br>     Descriptive statistics
+<br>     Min      Max     Mean    Std.dev.
+<br>     -0.95197 2.59171 0.03461 0.87813
+<br>
+<br>3. Gender (Real) is gender of participant:
+<br>     Value    Meaning Cases Fraction
+<br>      0.48246 Female  942   49.97%
+<br>     -0.48246 Male    943   50.03%
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -0.48246 0.48246 -0.00026 0.48246
+<br>
+<br>4. Education (Real) is level of education of participant and has one of=
+ the values:
+<br>     Value    Meaning                                              Case=
+s Fraction
+<br>     -2.43591 Left school before 16 years                           28 =
+   1.49%
+<br>     -1.73790 Left school at 16 years                               99 =
+   5.25%
+<br>     -1.43719 Left school at 17 years                               30 =
+   1.59%
+<br>     -1.22751 Left school at 18 years                              100 =
+   5.31%
+<br>     -0.61113 Some college or university, no certificate or degree 506 =
+  26.84%
+<br>     -0.05921 Professional certificate/ diploma                    270 =
+  14.32%
+<br>      0.45468 University degree                                    480 =
+  25.46%
+<br>      1.16365 Masters degree                                       283 =
+  15.01%
+<br>      1.98437 Doctorate degree                                      89 =
+   4.72%
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -2.43591 1.98437 -0.00379 0.95004
+<br>
+<br>5. Country (Real) is country of current residence of participant and ha=
+s one of the values:
+<br>     Value    Meaning             Cases Fraction
+<br>     -0.09765 Australia             54   2.86%
+<br>      0.24923 Canada                87   4.62%
+<br>     -0.46841 New Zealand            5   0.27%
+<br>     -0.28519 Other                118   6.26%
+<br>      0.21128 Republic of Ireland   20   1.06%
+<br>      0.96082 UK                  1044  55.38%
+<br>     -0.57009 USA                  557  29.55%
+<br>     Descriptive statistics
+<br>     Min      Max     Mean    Std.dev.
+<br>     -0.57009 0.96082 0.35554 0.70015
+<br>
+<br>6. Ethnicity (Real) is ethnicity of participant and has one of the valu=
+es:
+<br>     Value    Meaning           Cases Fraction
+<br>     -0.50212 Asian               26   1.38%
+<br>     -1.10702 Black               33   1.75%
+<br>      1.90725 Mixed-Black/Asian    3   0.16%
+<br>      0.12600 Mixed-White/Asian   20   1.06%
+<br>     -0.22166 Mixed-White/Black   20   1.06%
+<br>      0.11440 Other               63   3.34%
+<br>     -0.31685 White             1720  91.25%
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -1.10702 1.90725 -0.30958 0.16618
+<br>
+<br>7. Nscore (Real) is NEO-FFI-R Neuroticism. Possible values are presente=
+d in table below:
+<br>     Nscore Cases Value         Nscore Cases Value         Nscore Cases=
+ Value
+<br>     12      1    -3.46436      29     60    -0.67825      46     67   =
+ 1.02119
+<br>     13      1    -3.15735      30     61    -0.58016      47     27   =
+ 1.13281
+<br>     14      7    -2.75696      31     87    -0.46725      48     49   =
+ 1.23461
+<br>     15      4    -2.52197      32     78    -0.34799      49     40   =
+ 1.37297
+<br>     16      3    -2.42317      33     68    -0.24649      50     24   =
+ 1.49158
+<br>     17      4    -2.34360      34     76    -0.14882      51     27   =
+ 1.60383
+<br>     18     10    -2.21844      35     69    -0.05188      52     17   =
+ 1.72012
+<br>     19     16    -2.05048      36     73     0.04257      53     20   =
+ 1.83990
+<br>     20     24    -1.86962      37     67     0.13606      54     15   =
+ 1.98437
+<br>     21     31    -1.69163      38     63     0.22393      55     11   =
+ 2.12700
+<br>     22     26    -1.55078      39     66     0.31287      56     10   =
+ 2.28554
+<br>     23     29    -1.43907      40     80     0.41667      57      6   =
+ 2.46262
+<br>     24     35    -1.32828      41     61     0.52135      58      3   =
+ 2.61139
+<br>     25     56    -1.19430      42     77     0.62967      59      5   =
+ 2.82196
+<br>     26     57    -1.05308      43     49     0.73545      60      2   =
+ 3.27393
+<br>     27     65    -0.92104      44     51     0.82562
+<br>     28     70    -0.79151      45     37     0.91093
+<br>     Descriptive statistics
+<br>     Min      Max     Mean    Std.dev.
+<br>     -3.46436 3.27393 0.00004 0.99808
+<br>
+<br>8. Escore (Real) is NEO-FFI-R Extraversion. Possible values are present=
+ed in table below:
+<br>     Escore Cases Value         Escore Cases Value         Escore Cases=
+ Value
+<br>     16      2    -3.27393      31      55   -1.23177      45     91   =
+ 0.80523
+<br>     18      1    -3.00537      32      52   -1.09207      46     69   =
+ 0.96248
+<br>     19      6    -2.72827      33      77   -0.94779      47     64   =
+ 1.11406
+<br>     20      3    -2.53830      34      68   -0.80615      48     62   =
+ 1.28610
+<br>     21      3    -2.44904      35      58   -0.69509      49     37   =
+ 1.45421
+<br>     22      8    -2.32338      36      89   -0.57545      50     25   =
+ 1.58487
+<br>     23      5    -2.21069      37      90   -0.43999      51     34   =
+ 1.74091
+<br>     24      9    -2.11437      38     106   -0.30033      52     21   =
+ 1.93886
+<br>     25      4    -2.03972      39     107   -0.15487      53     15   =
+ 2.12700
+<br>     26     21    -1.92173      40     130    0.00332      54     10   =
+ 2.32338
+<br>     27     23    -1.76250      41     116    0.16767      55      9   =
+ 2.57309
+<br>     28     23    -1.63340      42     109    0.32197      56      2   =
+ 2.85950
+<br>     29     32    -1.50796      43     105    0.47617      58      1   =
+ 3.00537
+<br>     30     38    -1.37639      44     103    0.63779      59      2   =
+ 3.27393
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -3.27393 3.27393 -0.00016 0.99745
+<br>
+<br>9. Oscore (Real) is NEO-FFI-R Openness to experience. Possible values a=
+re presented in table below:
+<br>     Oscore Cases Value         Oscore Cases Value         Oscore Cases=
+ Value
+<br>     24      2    -3.27393      38      64   -1.11902      50     83   =
+ 0.58331
+<br>     26      4    -2.85950      39      60   -0.97631      51     87   =
+ 0.72330
+<br>     28      4    -2.63199      40      68   -0.84732      52     87   =
+ 0.88309
+<br>     29     11    -2.39883      41      76   -0.71727      53     81   =
+ 1.06238
+<br>     30      9    -2.21069      42      87   -0.58331      54     57   =
+ 1.24033
+<br>     31      9    -2.09015      43      86   -0.45174      55     63   =
+ 1.43533
+<br>     32     13    -1.97495      44     101   -0.31776      56     38   =
+ 1.65653
+<br>     33     23    -1.82919      45     103   -0.17779      57     34   =
+ 1.88511
+<br>     34     25    -1.68062      46     134   -0.01928      58     19   =
+ 2.15324
+<br>     35     26    -1.55521      47     107    0.14143      59     13   =
+ 2.44904
+<br>     36     39    -1.42424      48     116    0.29338      60      7   =
+ 2.90161
+<br>     37     51    -1.27553      49      98    0.44585
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -3.27393 2.90161 -0.00053 0.99623
+<br>
+<br>10. Ascore (Real) is NEO-FFI-R Agreeableness. Possible values are prese=
+nted in table below:
+<br>     Ascore Cases Value         Ascore Cases Value         Ascore Cases=
+ Value
+<br>     12      1    -3.46436      34      42   -1.34289      48     104  =
+ 0.76096
+<br>     16      1    -3.15735      35      45   -1.21213      49      85  =
+ 0.94156
+<br>     18      1    -3.00537      36      62   -1.07533      50      68  =
+ 1.11406
+<br>     23      1    -2.90161      37      83   -0.91699      51      58  =
+ 1.2861
+<br>     24      2    -2.78793      38      82   -0.76096      52      39  =
+ 1.45039
+<br>     25      1    -2.70172      39     102   -0.60633      53      36  =
+ 1.61108
+<br>     26      7    -2.53830      40      98   -0.45321      54      36  =
+ 1.81866
+<br>     27      7    -2.35413      41     114   -0.30172      55      16  =
+ 2.03972
+<br>     28      8    -2.21844      42     101   -0.15487      56      14  =
+ 2.23427
+<br>     29     13    -2.07848      43     105   -0.01729      57       8  =
+ 2.46262
+<br>     30     18    -1.92595      44     118    0.13136      58       7  =
+ 2.75696
+<br>     31     24    -1.77200      45     112    0.28783      59       1  =
+ 3.15735
+<br>     32     30    -1.62090      46     100    0.43852      60       1  =
+ 3.46436
+<br>     33     34    -1.47955      47     100    0.59042                 =
+=20
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -3.46436 3.46436 -0.00024 0.99744
+<br>
+<br>11. Cscore (Real) is NEO-FFI-R Conscientiousness. Possible values are p=
+resented in table below:
+<br>     Cscore Cases Value         Cscore Cases Value         Cscore Cases=
+ Value
+<br>     17      1    -3.46436      32       39  -1.25773      46     113  =
+ 0.58489
+<br>     19      1    -3.15735      33       49  -1.13788      47      95  =
+ 0.7583
+<br>     20      3    -2.90161      34       55  -1.01450      48      95  =
+ 0.93949
+<br>     21      2    -2.72827      35       55  -0.89891      49      76  =
+ 1.13407
+<br>     22      5    -2.57309      36       69  -0.78155      50      47  =
+ 1.30612
+<br>     23      5    -2.42317      37       81  -0.65253      51      43  =
+ 1.46191
+<br>     24      6    -2.30408      38       77  -0.52745      52      34  =
+ 1.63088
+<br>     25      9    -2.18109      39       87  -0.40581      53      28  =
+ 1.81175
+<br>     26     13    -2.04506      40       97  -0.27607      54      27  =
+ 2.04506
+<br>     27     13    -1.92173      41       99  -0.14277      55      13  =
+ 2.33337
+<br>     28     25    -1.78169      42      105  -0.00665      56       8  =
+ 2.63199
+<br>     29     24    -1.64101      43       90   0.12331      57       3  =
+ 3.00537
+<br>     30     29    -1.51840      44      111   0.25953      59       1  =
+ 3.46436
+<br>     31     41    -1.38502      45      111   0.41594                 =
+=20
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -3.46436 3.46436 -0.00039 0.99752
+<br>
+<br>12. Impulsive (Real) is impulsiveness measured by BIS-11. Possible valu=
+es are presented in table below:
+<br>     Impulsiveness Cases Fraction
+<br>     -2.55524       20    1.06%
+<br>     -1.37983      276   14.64%
+<br>     -0.71126      307   16.29%
+<br>     -0.21712      355   18.83%
+<br>      0.19268      257   13.63%
+<br>      0.52975      216   11.46%
+<br>      0.88113      195   10.34%
+<br>      1.29221      148    7.85%
+<br>      1.86203      104    5.52%
+<br>      2.90161        7    0.37%
+<br>     Descriptive statistics
+<br>     Min      Max     Mean    Std.dev.
+<br>     -2.55524 2.90161 0.00721 0.95446
+<br>
+<br>13. SS (Real) is sensation seeing measured by ImpSS. Possible values ar=
+e presented in table below:
+<br>     SS       Cases Fraction
+<br>     -2.07848  71    3.77%
+<br>     -1.54858  87    4.62%
+<br>     -1.18084 132    7.00%
+<br>     -0.84637 169    8.97%
+<br>     -0.52593 211   11.19%
+<br>     -0.21575 223   11.83%
+<br>      0.07987 219   11.62%
+<br>      0.40148 249   13.21%
+<br>      0.76540 211   11.19%
+<br>      1.22470 210   11.14%
+<br>      1.92173 103    5.46%
+<br>     Descriptive statistics
+<br>     Min      Max     Mean     Std.dev.
+<br>     -2.07848 1.92173 -0.00329 0.96370
+<br>
+<br>14. Alcohol is class of alcohol consumption. It is output attribute wit=
+h following distribution of classes.
+<br>
+<br>15. Amphet is class of amphetamines consumption. It is output attribute=
+ with following distribution of classes.
+<br>
+<br>16. Amyl is class of amyl nitrite consumption. It is output attribute w=
+ith following distribution of classes.
+<br>
+<br>17. Benzos is class of benzodiazepine consumption. It is output attribu=
+te with following distribution of classes:
+<br>     Value Class                     Alcohol        Amphet          Amy=
+l          Benzos
+<br>                                  Cases Fraction Cases Fraction Cases F=
+raction Cases Fraction
+<br>     CL0   Never Used              34    1.80%   976   51.78%   1305  6=
+9.23%   1000  53.05%
+<br>     CL1   Used over a Decade Ago  34    1.80%   230   12.20%    210  1=
+1.14%    116   6.15%
+<br>     CL2   Used in Last Decade     68    3.61%   243   12.89%    237  1=
+2.57%    234  12.41%
+<br>     CL3   Used in Last Year      198   10.50%   198   10.50%     92   =
+4.88%    236  12.52%
+<br>     CL4   Used in Last Month     287   15.23%    75    3.98%     24   =
+1.27%    120   6.37%
+<br>     CL5   Used in Last Week      759   40.27%    61    3.24%     14   =
+0.74%     84   4.46%
+<br>     CL6   Used in Last Day       505   26.79%   102    5.41%      3   =
+0.16%     95   5.04%
+<br>
+<br>18. Caff is class of caffeine consumption. It is output attribute with =
+following distribution of classes.
+<br>
+<br>19. Cannabis is class of cannabis consumption. It is output attribute w=
+ith following distribution of classes.
+<br>
+<br>20. Choc is class of chocolate consumption. It is output attribute with=
+ following distribution of classes.
+<br>
+<br>21. Coke is class of cocaine consumption. It is output attribute with f=
+ollowing distribution of classes:
+<br>     Value Class                      Caff         Cannabis         Cho=
+c           Coke
+<br>                                  Cases Fraction Cases Fraction Cases F=
+raction Cases Fraction
+<br>     CL0   Never Used               27   1.43%   413   21.91%    32    =
+1.70%   1038  55.07%
+<br>     CL1   Used over a Decade Ago   10   0.53%   207   10.98%     3    =
+0.16%    160   8.49%
+<br>     CL2   Used in Last Decade      24   1.27%   266   14.11%    10    =
+0.53%    270  14.32%
+<br>     CL3   Used in Last Year        60   3.18%   211   11.19%    54    =
+2.86%    258  13.69%
+<br>     CL4   Used in Last Month      106   5.62%   140    7.43%   296   1=
+5.70%     99   5.25%
+<br>     CL5   Used in Last Week       273  14.48%   185    9.81%   683   3=
+6.23%     41   2.18%
+<br>     CL6   Used in Last Day       1385  73.47%   463   24.56%   807   4=
+2.81%     19   1.01%
+<br>
+<br>22. Crack is class of crack consumption. It is output attribute with fo=
+llowing distribution of classes.
+<br>
+<br>23. Ecstasy is class of ecstasy consumption. It is output attribute wit=
+h following distribution of classes.
+<br>
+<br>24. Heroin is class of heroin consumption. It is output attribute with =
+following distribution of classes.
+<br>
+<br>25. Ketamine is class of ketamine consumption. It is output attribute w=
+ith following distribution of classes:
+<br>     Value Class                     Crack         Ecstasy         Hero=
+in        Ketamine
+<br>                                  Cases Fraction Cases Fraction Cases F=
+raction Cases Fraction
+<br>     CL0   Never Used             1627  86.31%   1021  54.16%   1605  8=
+5.15%   1490  79.05%
+<br>     CL1   Used over a Decade Ago   67   3.55%    113   5.99%     68   =
+3.61%     45   2.39%
+<br>     CL2   Used in Last Decade     112   5.94%    234  12.41%     94   =
+4.99%    142   7.53%
+<br>     CL3   Used in Last Year        59   3.13%    277  14.69%     65   =
+3.45%    129   6.84%
+<br>     CL4   Used in Last Month        9   0.48%    156   8.28%     24   =
+1.27%     42   2.23%
+<br>     CL5   Used in Last Week         9   0.48%     63   3.34%     16   =
+0.85%     33   1.75%
+<br>     CL6   Used in Last Day          2   0.11%     21   1.11%     13   =
+0.69%      4   0.21%
+<br>
+<br>26. Legalh is class of legal highs consumption. It is output attribute =
+with following distribution of classes
+<br>
+<br>27. LSD is class of alcohol consumption. It is output attribute with fo=
+llowing distribution of classes
+<br>
+<br>28. Meth is class of methadone consumption. It is output attribute with=
+ following distribution of classes.
+<br>
+<br>29. Mushrooms is class of magic mushrooms consumption. It is output att=
+ribute with following distribution of classes:
+<br>     Value Class                     Legalh          LSD            Met=
+h         Mushrooms
+<br>                                  Cases Fraction Cases Fraction Cases F=
+raction Cases Fraction
+<br>     CL0   Never Used             1094  58.04%   1069  56.71%   1429  7=
+5.81%   982   52.10%
+<br>     CL1   Used over a Decade Ago   29   1.54%    259  13.74%     39   =
+2.07%   209   11.09%
+<br>     CL2   Used in Last Decade     198  10.50%    177   9.39%     97   =
+5.15%   260   13.79%
+<br>     CL3   Used in Last Year       323  17.14%    214  11.35%    149   =
+7.90%   275   14.59%
+<br>     CL4   Used in Last Month      110   5.84%     97   5.15%     50   =
+2.65%   115    6.10%
+<br>     CL5   Used in Last Week        64   3.40%     56   2.97%     48   =
+2.55%    40    2.12%
+<br>     CL6   Used in Last Day         67   3.55%     13   0.69%     73   =
+3.87%     4    0.21%
+<br>
+<br>30. Nicotine is class of nicotine consumption. It is output attribute w=
+ith following distribution of classes.
+<br>
+<br>31. Semer is class of fictitious drug Semeron consumption. It is output=
+ attribute with following distribution of classes.
+<br>
+<br>32. VSA is class of volatile substance abuse consumption. It is output =
+attribute with following distribution of classes:
+<br>     Value Class                    Nicotine        Semer           VSA
+<br>                                  Cases Fraction Cases Fraction Cases F=
+raction
+<br>     CL0   Never Used             428   22.71%   1877  99.58%   1455  7=
+7.19%
+<br>     CL1   Used over a Decade Ago 193   10.24%      2   0.11%    200  1=
+0.61%
+<br>     CL2   Used in Last Decade    204   10.82%      3   0.16%    135   =
+7.16%
+<br>     CL3   Used in Last Year      185    9.81%      2   0.11%     61   =
+3.24%
+<br>     CL4   Used in Last Month     108    5.73%      1   0.05%     13   =
+0.69%
+<br>     CL5   Used in Last Week      157    8.33%      0   0.00%     14   =
+0.74%
+<br>     CL6   Used in Last Day       610   32.36%      0   0.00%      7   =
+0.37%
+<br></p>
+
+<br>
+
+<p class=3D"small-heading"><b>Relevant Papers:</b></p>
+<p class=3D"normal">E. Fehrman, A. K. Muhammad, E. M. Mirkes, V. Egan and A=
+. N. Gorban, "The Five Factor Model of personality and evaluation of drug c=
+onsumption risk.," arXiv <a href=3D"https://arxiv.org/abs/1506.06297">[Web =
+Link]</a>, 2015
+<br>
+<br>E. Fehrman,  V. Egan, A. N. Gorban, J. Levesley, E. M. Mirkes, A. K. Mu=
+hammad, "Personality Traits and Drug Consumption. A Story Told by Data." Sp=
+ringer, Cham, 2019. <a href=3D"https://doi.org/10.1007/978-3-030-10442-9">[=
+Web Link]</a>. ISBN 978-3-030-10441-2 [a book of Original Owners of Databas=
+e]
+<br>
+<br>D. Kumari, S. Kilam, P. Nath, et al. "Prediction of alcohol abused indi=
+viduals using artificial neural network." Int. J. Inf. Tecnol. 10, 233=E2=
+=80=93237 2018. <a href=3D"https://doi.org/10.1007/s41870-018-0094-3">[Web =
+Link]</a>
+<br>
+<br>P. Nath, S. Kilam and A. Swetapadma, A machine learning approach to pre=
+dict volatile substance abuse for drug risk analysis,  2017 Third Internati=
+onal Conference on Research in Computational Intelligence and Communication=
+ Networks (ICRCICN), Kolkata, 2017, pp. 255-258.   IEEE. <a href=3D"https:/=
+/doi.org/10.1109/ICRCICN.2017.8234516">[Web Link]</a>
+<br>
+<br>M. L. Eric, "Predicting illicit drug use with artificial neural network=
+." European Journal of Humanities and Social Sciences, (3), 131-137, 2019. =
+<a href=3D"https://doi.org/10.29013/EJHSS-19-3-131-137">[Web Link]</a>
+<br>
+<br>X. Luo, Y. Li, W. Wang,  et al. "A robust multilayer extreme learning m=
+achine using kernel risk-sensitive loss criterion." Int. J. Mach. Learn. &a=
+mp; Cyber. 11, 197=E2=80=93216, 2020. <a href=3D"https://doi.org/10.1007/s1=
+3042-019-00967-w">[Web Link]</a>
+<br>
+<br>K. I. Adenuga, I. O. Muniru, F. I. Sadiq, et al.  "Big Data in Healthca=
+re: Are we getting useful insights from this avalanche of data?." In  ICSIE=
+ '19: Proceedings of the 2019 8th International Conference on Software and =
+Information Engineering, April 2019 Pages 196=E2=80=93199, 2019.  IEEE.  <a=
+ href=3D"https://doi.org/10.1145/3328833.3328841">[Web Link]</a>
+<br>
+<br>A. Sies, I. Van Mechelen, "C443: a Methodology to See a Forest for the =
+Trees." J Classif (2020). <a href=3D"https://doi.org/10.1007/s00357-019-093=
+50-4">[Web Link]</a>
+<br>
+<br>S. Adinugroho, Y. A. Sari and N. Hidayat, "Drug usage duration classifi=
+cation using Extreme Learning Machine based on personality features," 2019 =
+International Conference on Sustainable Information Engineering and Technol=
+ogy (SIET), Lombok, Indonesia, 2019, pp. 33-37.  IEEE. <a href=3D"https://d=
+oi.org/10.1109/SIET48054.2019.8986131">[Web Link]</a>
+<br>
+<br>Z. T. Qiao, Q. Chai, X. Zhang, et al. "Predicting potential drug abuser=
+s using machine learning techniques," 2019 International Conference on Inte=
+lligent Informatics and Biomedical Sciences (ICIIBMS), Shanghai, China, 201=
+9, pp. 283-286.  IEEE.  <a href=3D"https://doi.org/10.1109/ICIIBMS46890.201=
+9.8991550">[Web Link]</a>
+<br>
+<br>B. Trevizan, J. Chamby-Diaz, A. L. Bazzan, M. Recamonde-Mendoza,   "A c=
+omparative evaluation of aggregation methods for machine learning over vert=
+ically partitioned data." Expert Systems with Applications, 113406, 2020. <=
+a href=3D"https://doi.org/10.1016/j.eswa.2020.113406">[Web Link]</a>
+<br>
+<br>D. Benkeser, M. Petersen, M. J. van der Laan, "Improved small-sample es=
+timation of nonlinear cross-validated prediction metrics." Journal of the A=
+merican Statistical Association, 1-16,  21 Oct 2019. <a href=3D"https://doi=
+.org/10.1080/01621459.2019.1668794">[Web Link]</a>
+<br>
+<br>A. Shahriar, F. Faisal, S. U. Mahmud, et al. "A Machine Learning Approa=
+ch to Predict Vulnerability to Drug Addiction." In 2019 22nd International =
+Conference on Computer and Information Technology (ICCIT) (pp. 1-7) 2019. I=
+EEE. <a href=3D"https://doi.org/10.1109/ICCIT48885.2019.9038605">[Web Link]=
+</a>
+<br>
+<br>R. Sen, K. Shanmugam, S. Shakkottai, "Contextual bandits with stochasti=
+c experts." arXiv preprint <a href=3D"arxiv:1802.08737">[Web Link]</a>, 201=
+8. <a href=3D"https://arxiv.org/abs/1802.08737">[Web Link]</a>
+<br>
+<br>S. Garg, Z. Ghodsi, C. Hazay, et al. "Outsourcing private machine learn=
+ing via lightweight secure arithmetic computation." arXiv preprint <a href=
+=3D"arxiv:1812.01372">[Web Link]</a>, 2018. <a href=3D"https://arxiv.org/ab=
+s/1812.01372">[Web Link]</a></p>
+
+<br>
+
+
+<!-- OLD CODE:
+
+<p class=3D"small-heading"><b>Papers That Cite This Data Set<sup>1</sup>:</=
+b></p>
+<img src=3D"../assets/rexa.jpg" />
+<p class=3D"normal">N/A</p>
+
+-->
+
+
+
+<br>
+
+<p class=3D"small-heading"><b>Citation Request:</b></p>
+<p class=3D"normal">E. Fehrman, A. K. Muhammad, E. M. Mirkes, V. Egan and A=
+. N. Gorban, "The Five Factor Model of personality and evaluation of drug c=
+onsumption risk.," arXiv <a href=3D"https://arxiv.org/abs/1506.06297">[Web =
+Link]</a>, 2015</p>
+
+</td></tr></tbody></table>
+
+
+<hr>
+
+<!-- OLD CODE:
+<p class=3D"normal"><font size=3D1>[1] Papers were automatically harvested =
+and associated with this data set, in collaboration with <a href=3D"http://=
+rexa.info"><font size=3D1>Rexa.info</font></a></font></p>
+-->
+
+
+
+<table cellpadding=3D"5" align=3D"center"><tbody><tr valign=3D"center">
+		<td><p class=3D"normal">Supported By:</p></td>
+        <td><img src=3D"https://archive.ics.uci.edu/ml/assets/nsfe.gif" hei=
+ght=3D"60"> </td>
+        <td><p class=3D"normal">&nbsp;In Collaboration With:</p></td>
+        <td><img src=3D"https://archive.ics.uci.edu/ml/assets/rexaSmall.jpg=
+"></td>
+</tr></tbody></table>
+
+<center>
+<span class=3D"normal">
+<a href=3D"https://archive.ics.uci.edu/ml/about.html">About</a>&nbsp;&nbsp;=
+||&nbsp;
+<a href=3D"https://archive.ics.uci.edu/ml/citation_policy.html">Citation Po=
+licy</a>&nbsp;&nbsp;||&nbsp;
+<a href=3D"https://archive.ics.uci.edu/ml/donation_policy.html">Donation Po=
+licy</a>&nbsp;&nbsp;||&nbsp;
+<a href=3D"https://archive.ics.uci.edu/ml/contact.html">Contact</a>&nbsp;&n=
+bsp;||&nbsp;
+<a href=3D"http://cml.ics.uci.edu/">CML</a>
+</span>
+</center>
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://archive.ics.uci.edu/ml/assets/ml.css
+
+@charset "utf-8";
+
+textarea { width: 95%; text-align: left; height: 49px; }
+
+.whitetext, .whitetext a, .whitetext a:visited { color: rgb(255, 255, 255);=
+ font-size: 10pt; font-family: Arial, Helvetica, sans-serif; }
+
+.normal, .normal a, .normal a:visited { font-size: 10pt; font-family: Arial=
+, Helvetica, sans-serif; color: rgb(18, 54, 84); }
+
+.heading, .heading a, .heading a:visited { font-size: 20pt; font-family: Ar=
+ial, Helvetica, sans-serif; color: rgb(18, 54, 84); }
+
+.small-heading, .small-heading a, .small-heading a:visited { font-size: 12p=
+t; font-family: Arial, Helvetica, sans-serif; color: rgb(18, 54, 84); }
+
+.big, .big a, .big a:visited { font-size: 14pt; font-family: Arial, Helveti=
+ca, sans-serif; color: rgb(18, 54, 84); }
+
+.almostbig, .almostbig a, .almostbig a:visited { font-size: 12pt; font-fami=
+ly: Arial, Helvetica, sans-serif; color: rgb(18, 54, 84); }
+
+.bigwhite, .bigwhite a, .bigwhite a:visited { font-size: 14pt; font-family:=
+ Arial, Helvetica, sans-serif; color: rgb(255, 255, 255); }
+------MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q----
+Content-Type: application/x-httpd-php
+Content-Transfer-Encoding: base64
+Content-Location: https://archive.ics.uci.edu/ml/assets/logo.gif
+
+R0lGODlhgAF8APcAAP////f3+Pb2//H19e3v/e/v9+/v6e7u7+Xl9Obm7uTk5uHg797e5t3d39bW
+8dfV5dbW39HV3tTU2M7O38zMzP/MAMbG1cfG3MTEzPLFFb2+1fHCB76+xL29zuW+KLW2zbW1xq61
+xte2OeC1EK2tx62tvsyvSKuqr9CsFqWlvKakw7+mVM6nGKWjtZqdtZubvpqcra+cYLydH5WWtZmX
+prmXI5SUraSTaKqTJYyMtYyMrYyMpauNKpaJcYqInYSFpIODrISEnGmHpYp/dJmAM5KCMXt9nHp7
+pHR9lImAMnt7lYJ5N3R0nHt0eHJylGt1i4hzPHlzPGtri29qemZmmWprQWRkhWJji1hig2FeeFtb
+jVxhR1pag1FagWVYTVJUhU9bTEhaTFJSeklTelBRc0xMgURTUUtLe1NLVktKc0dHa0NDe0JCcitK
+V0NCZS9HWUFBaTU/aTs7cyVCWzo6ah4+XzMzZjIybhU7YRI8YDAwWikvYwg1ZAQ1ZSkpZCoqWQQ0
+ZgIzZgAzZiMjYiIhWiAgUhsaWhkZURkZShISQxAQVBAQSg8QPQkJSgcHQgEBQgABOwAAMwEAKQAA
+GwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAQUAP8ALAAAAACAAXwA
+AAj/AAUJHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp0ghQIMKHUq0qNGjSJMqXcq0qdOnUKNKnUq1qtWrWKsqFAKgq9evYMOK
+HUu2rNmzaNOqXcu2rdu3cOPKnUu3LlwhW+3q3cu3r9+/gAMLHvwWb0KuhBMrXsy4sePHiQ0jRAy5
+suXLmDNrtiv5IOXNoEOLHk1acGeDn0urXs06AokXO5RMmZLlig0QFhgkKMD68umCqXsLH25ZgZRD
+hgYRWrSIjZQrYrhcueJkR4kPFw4QV/ybYPDt4MPb/4XwIQUNI1rEiEljx48eN27snAFRIIGEDipm
+7Agi5cuX6T64AIIC4vXV3UDfFajggmMdMMELTnChxh+G7EEHG2dcYYQNKnzAAQYSSADBAF4FcMAB
+CSgAwQQdtKADExKO8YUTLUwQAINxHShQgjj2uJ0AE6jAhBh2GGKIH3JwwYQOKYCAwQUQ6FZAADem
+ZWICD1gQgg1MQLfGGlzsYAECPqqloyA8lqnmaAyoQMUafhCyBxtaLKmCBhMoMGWVdZnIwAQfzMDE
+F2zIAWYQJUCw5lhnpsmgidotmhkEOnBRJCFxYLFDCh08cMAAfAo2QAIXkDCDEVzAQQcdXxjxwgUC
+SP8KQKNnJRDBBLjmmiuBbCWg668TJCBXABbscAUbdtixx7LL0pGGEyCQ2NYBKwI7AQS8yTqWAS1w
+QYghdohhhAsdMABqZVQ6WIIOUozBxrJrSDGDBdL6SKtZyjKr77J2MLCWAvnuyywbcEHAxKpT9GCC
+CBU03LAHJsQwRBp7cAHCWhYELPAeV2gb1gVK6LHIIWsAUe65oKUbQQg7WAHHsne0moIF2S54b1l7
+OKyzw1lcrNYHWey88x5tBdCBGHQ0sYLQTD/cQxpp+HxWCkE3XQEdHnvVgROEODIIFSqYK9yoE5AA
+xBVyDOJHzD+QEEGs4t1Mlh1WV5BFCmtRXTfRayX/IAUdPWRQd9030HGFombpbTXW2hrN9SFsADFB
+pOGNakEKR2ghhx9+xDtDuWMJ8ABpco9Ft9V3511103yn1QEdWXgw+OwZTJFGB4mvzjTjizIAghPJ
+fvECA6EuWF+QR3CBrBwyX8ArABFQcYcO9W5WulinN526WoqzbqUNdNww+/gNx7BHCWV1v7uaAShg
+gQuaswHtAsNSaX/xlxXwZwmoshFHGlaAgQI4kCw7LMIGorleWLLHtO2lRX1Ca51ZdEAHE5DvgiZg
+g9TCAsGd8U5B+iubDqhwhjVowQaTY8sAFDABDJTABS7QgRGM8AQq2JAJODzCDmjgghJ0wAIRYMAB
+//CXGP29DwlYwIIVDkEIEEDgD4joQAEWIEQiNkaBYGGg0ByIlg7qTIJkKQEcGHbBC67ADhMYixcd
+9kHiBMA+KviBFM7AhjR8gQo6+IC/3NIBI1DhCmeQgxzSEJ89EEIRiGzEIxbpCEcw0Q5sEIOGZtCh
+B1RPMQd4gAb2sAgSdEUMkuCCDpxwhScYQQcdoJxjsPgVLe6Mi1PTXQTP0gE7WLCMZeyBGFTplTU2
+rI2sOcAFXOAE9hACU2JAQgo0sMe3BAADLkiBNKUJAhCQ4JotgMEOjHCFNNBhD4dwBCTGOU5H+oFV
+TtABCR5gRcAsIA4/AIACfEAHLsDQBkaAgyMeYf+IM3wAMqz0iit1Bsvc7c0sCggf+TJggoaaQHbk
+E4MOxOLLqwknAR/4wRkIcYhDDEJ+LmBmO9ky0q+YSAEPYJELMreGQSyCnJBoBBP3cAYjzKxmgumA
+IVogABfIj36gKsAMCkWISKyBTKvMC77qVtD0yXJoZpHCU4WWgRsQKZLqcdYQIFo3E9Dheb2cKhtZ
+k4AUiIGjhJBfCi5APM288QEtOkIZwNnIRjBnEYSAg7w6IKzAMIANV5iAlvrqlQI8aFB+oEIzFxPQ
+rgyUZ3jjnlgbBkawWIAOXG1a4cRQAlUS6289mF0WJgqWigITNArQgRj8EAcp2AADhC2NABjQgR3/
+cAGcHe0ocw5xByq0gGaAwYAO0viVBLQVACBAAhL8EAkxjI4xjQXAYxvWVLJUtLJf4UJo69YENuCO
+LBdgQxMEZ7UMcnCyFiXNAIwQiUnswQLiSUAHfCCGP3T0mIdYRCMKkQYmrBNufKFSYcvWpRIUYIAw
+kAIiJPEFXg4mutO1W2QfiF7sdmUCdCBv05rAhcWOpQBcmMLg0gDfr5hWNAe4nBLsUAg2vMCZwcpM
+A1pwhTvcN1nLWYQfvjADDdAPMA+YQQue0IgOd+WNJFjDHYLgRO4otSwRrq4aK0wWKQyBcGzAaVn+
+GoO6DaFjJkbvaSGTYhdIQQ53SIMRNIDUtgwg/8EetkwBPnCwRjTiD6v6QyE62tt1atkuB+hAAxrQ
+IS0L4ANzPCG9HvzkuTF1wl2kslgGYAcyMs0DbLjAWkqgBsJxobRixkwAIJCCK4BTD1aYwXOdWQI9
+xFM0F2DCIB6xiD2oypD5JcQZgGABBxMmASS4Qhzs4AQMlHQuEH606g4qlhKIwctSaAsbuuywDKxg
+CFmQz3fDWrcxK8Z9QbCDTNPA60u6ZQJpkMKxK2OBKyDiEYWww6raUwjm7AFaCjD3YAJ9hSP9IALr
+LkyjTadsyTI7LFe48uKIu5YgNMEDEkPaGZjQAX2f2DEBeEAKuFBvO1A8tnE5gBPu8OPSHMDZiP/E
+86q+WW+8imEHKWTMnKlgIRiAnDMDx17BKXxwsFTQaitIQ8C/AoEz1PMHi3ZqtxtzgAjoQA5M7IIL
+EGeXEhyCCRcF38jkvXI7HHIRhaDDx/UdGAGQQAwcow9fko06SMey54Xdg4aFNgQjDObiiREmE4rE
+hh+kki8J0EIjSiycdr+bECufd5w6ajgbaGA3Q6dLAmZAhz8EIc5yYbv23G5Qq2G3A51G3Qb/gnfB
+HAADI//DF1zQgL9AAFlkL00CbHCHRqo88XbQs0ePXgILLKAAUxqMBWQthxLEvi2abyDnle55sdhA
+zDfvS+kBIwEp6EEPVyhB9PUiATV8OjwTYEL/ISBxiHkXMFm4PkQh/kAnJtjAhxcIYgJORP8BgMp+
+cSlACu6wiCD42i3Jt0XLZ12SBhZOsF1NYweEMX19MQAkkAaEcAUfsH16EQApUAivBhkCAGB81AWL
+4AiEcH5cRwd2MAiHoEjkJFNy4izRQQVMoAQ+YAM20AIk0AEUoAAnImBsMQFcsAhXAFZ3kXMLtHOR
+BnddoV1WIwLethcMuBcBEASMQAgp8H988QH55UmAgTIf5gB/lhYHQCAHYANeJ4L4lVu6NTK59Qdq
+qIYjuCprM0jRIQWb8gGTo4NncQBB0BwRgGxCmEVEeBYlUIBf8QXi0zTmdXehBhhAIAmS4AKJ/zEB
+dyAJf4CFfrEAj1cWWHJ8ZdEAVrADN2IwnEOC+XUIfoAhGqIDM/ACNcgBHGABFoABsMiKHFACLTAD
+QDBDUsAFcnB+zMMELyBodkgWLYAkhCdwh3EWUTaAYxGIRggAZ3BLTHOIgtGEdvEC+6UDkRcXCqAF
+g3AFfpCBfcEAejQWCzABDUCFd4gEi3AECZAARlAI8QZJ1aECFgABOKiFaCEA9mdcLNICRmAFZ5B7
+aqMGUpADJDABXegVGvAlDAeAfdhKf2gWzNh8YcEG0Cg0JpAGC5iIfREEjeBd2QgXAbADi8B6h3AG
+gHEAIWAB+JMAOvADQNgWCXAFjpBuVsAei/9AByCQACGJFibSABbgj19AB99iCIaDSscFFhOAIQ3J
+FgH4SsrYbILoFRZZXhqJiEsXYE7gCGJAdYMBAaoCAAmgB4dQcnxxAD7gAzfXAV+AQHORAHQgCWyg
+AirwBZHABhTIFwhwAXHEBXRgJGllBCCwAKEykn4ABJiHFk9JUFEZFhPpPRV5kTsjjYFBjXIhBZAg
+BejYFy5wCDsAAAWAmeijiW8xABHilV0xA2WgAXQRANYoBQuwAFQACWKQl34RAAMwASnABGxwgiTD
+BBN4ZDNwB04AAwbgkMeIL5kFlZs2lV1xBktjiASDlYvDF0oQCU6wmYCnBYbwXCRwCF1QAkf/EJN0
+EQRl0JQAoJqsSRcOIAdiMCYkqZmPQSUJAAJBcAbhVAhnYAMKEAAfQAhk8APog3wPKVCSyZjLZjUK
+GBZI2DQZsIR6YZlvUQKRwAW22Rca4Aco2RUiFwmRkAjoA3x6YQTnGRYz4E91MQBacAjoUwKE4ImX
+MSoZJQaHoAhsICCc5IIYQKDJCWUHyjOOqBYugF4LChZSgIBMswc92RYS2hYPcAh7kJiBMQOK8Jle
+YQF6gAjhAgAIsJ6t6QRngJ4vsAaUOCwz0AgvBgR+MKCZMSocMHJ34AZ+kJNr4FxOWaBd8XPa45Zp
+8XxWkwFF+hU/IGJWkwaa5hYu8AM2UoTV/5miX/AI6LlvUlAIDTlqF9AChgAEAqABqAkXCeAfcbaQ
+fDoXEGAHOUAAayAHq7YZmbQDZKAHOdZJd9qjZKGnDTSqZ6EDk+VVYgEC6DUFuKoWezAFJHgF2zZl
+WUkXJPAI6tYYEJAGcEBEB8AFikACAyABDbCkX4FhTmBuHfAHXRBzw6IEX8AEe4CN6sUAJeAEbGA4
+h2omeAoAcvCjDQOsa/EDuyoHYpEAOWM1PfB9bAECoScCQ6AGdsAFLeBrTaoWAUCTkQpk9AMCf2AF
+ZBEBbGAIKbBCCsCBbmEB7EcCGhACKwUELmAFgMkEpIkWE/AHk1AGZkkavsJX2RhdVdk0Pf9gd2ph
+BE1QXtMZFnRgaUKjhG5xBTurMx5gVeHCpl2xsGnRAH8wBilrFwzAZgAAA4hgpWMxAfV1BFHbINkB
+AoWgCGfABWlwCI+gCIYzA1oQCYfwsG3BBJNgBRyrJtElBoXIND0QbWpxpOW1oQx6t0xzO2xxAHYQ
+nVR1A1fJbY06FynQCEFKGO5znAvgBLJaFgoASlTgKW8xAWUAHXCwA9j0HDlQLm9kA4pwBV2LiWuw
+CC2gLdF1BUi6Myvgt2ghBrGrMzcAsGDRAs9mNTdwBpE3A2lQN7MLaskaFwHABIdQjIHRPgXQAEpw
+BUrmAGbBAFqwhkpAnoBoCJGwCOgKAJD/EhZHsAh4gwCr6hYPsAeM0LqSEl06+6dRmhYDYKtC0wNO
+MBZwuZw686BKaxYJMG3cRVqK2zQQ6oWEor1/sQBnEAmNQAhA4L9XQGx+8AhGgMBlEQSOMAl3cL5i
+sQBpwAYkoAVncKFm4bGN0JgFEl0V1QR6exYgQAcBTBawS7xs4LZgwQTo9aBAyLRnwQBJoq1rIS2f
+mpOO0J1lUQAuIAYwoASPQAX92RYTsAeRYAdlWhYWgJ/jZKUMkJBncQFrcAgzsCjRBQEwbDUeAAf9
+u69ncLsE9a5h8TpzV781bBYFYASYVTcxIAbndbxwYQF7QAVA3KdOIAAHkAaK4AIcAAf3/xsWILAD
+LfABNiAFLGkFlOoWAnAGkOAENhwWH6AhNIo3D9BmbWG9ivADc2sz8RoAdqC/OuNVQVAWEyAHhKqg
+7RQAtjs4hdMCZAcBZAu0TKMG/2S8ixsXJbAHQBDIU8MIhVACV3AIjjgAoPMVB2AEhNAFOxAb6EMC
+gwCOayEFoZS6HAoADFB7eAPOYHEAUlDKyAwa0QUAdjs4IqAGbGAD7OQVA4BodqBwQNezY/E6rNzK
+H6yoVXIAICAFdjAFcSw0McDPA7w+cyGG7PsXJLBgiEAIclDFJtWZWCBoITIlOlClQ+caGiAFkwAH
+L7uDRClD3+sW62UIP7DOmtHOKcAG4/8TA1PAL6uyB2nQBPSqM03AzWGRvOjlMCtArHuAfjv9z/ur
+BqO3tBwZF0ZgByfQJ/iTAosgCYiACGvgpWLBAFwwBlo2ABHQBV2gnV3xwoyQCJGgBq0nFwpABVed
+yW39Fj8wCCjbI+2syoY7OxDTUAndNB5AB1Jqzwp1QSKg1EzzZcg6zHCxYlMdF4ScLnwyzZBQCNe8
+A4MNAB3QBSHQ1UhwBMc2ADZwCIyICE5AwmURALwxv5JgB2mgxJQTjLl6CPLJIO0MACmQBn+NS1bT
+BFiHFuG117zdVXLQqU7Nx29BA1ItFwRw0hbABZBAB8xLFgNgW+Y2AMRkwV3BAFawCHf/IAVGcKxv
+0clMIE1poAUP8AD9xgUdUCXtKNtkoQOLUNsKctsAwAVFO9yDswJskNlfUQI/q991o4TKyMNmEQJ+
+ENFvsZca0NYJAAN60AhMgNoAwLkC/BUKoARK0MNswKxJGRcTwFx0sAaPcFRdkQA5YAiLoMkFsIEC
+cD+5yqxmrRr2/XrUJuBMo4RNbRYuYAc3juMOo4SPS1FPDRcMIHZxsQAvwARJgitX0GIYbblG0AWY
+l+EbXhYPQKMrLRcFQAWDYATCZQhHABYfEImF4AQf0AALQAD6eCKaeASQ8NL1Ha9fkTGAC+QVIAJs
+0AIh+QFswMbDrYTBKswEXBdOsAeq//QAv3gj6vpcD/ABkeKfZVAGTnCCXWB0O0DhEQACP3AFOw4A
+A9ACUuC2A1AGkJDGcaEBbGClEWADEhAWDOBu+6XILxAsxsUAutFOcqAIwRw3dF7nYoDQeF4BuQwX
+S5kFvszbPUAHQ77YhU4XGOC9XvGpjGAFATABcLAIrHkBcqAFxqUC76gHK0kHjZAGiqoWA7B/e6AE
+0/0VF/AFP2AA5FkAYtAIIADTAKACYkABAOAAwPgV9tcVFkAFkWAIhMIGRxAC5qgBB2lFF/AIX3DS
+w2HfXgEBVwAHP87bJpAFZ8DVboGHSYPYVhMD3reHgFjkcSF4JRYCkCAJP/AAaxAJjP8QLHTwCJ/D
+Bo207wDwANXx6gzb430npU23A4VwnosaFgpgBIPAjiWCmzMOFi/wnv2uARZ8oh0AAS1gBX7wBy93
+TRoQe1An3sRB8V8BAmzABjcg8juTATGQBTfKxWxhMHQwBTGw2ztDsGf/6VKJ3HDxAJyjAQHwAyD4
+AldACKNkW81VAmVgB2TgA1WC623xwlbga/TZATogwnRwBzngANs3AFTQCFJgSVnSATFUcWxBAmww
+oCeCvzagBTvaFQYABx66CGegAyEQAWRnBYiA6sJB9mDRARGsBgkTAw4lOwzVUDeAbeHiAhSuFgxg
+AwEpBkOgMA7VUCvQA1NgsMa6gxv/oy84WxcWMAhysDV6gAV28Ah40wKKcAjqgX3+fRYD4ANpAHKq
+LY6J+hz+pQFncAcXEPBjwQQA4QiOERUtrGBhciXFAAANHT6ECGDCGSYBIj5k8ENMiYca/ND58SSL
+ljVWKFwMYOUPiIstXb6EGVMmACGCbN7EKWQmTAYpmHA5w4YOHTt2hp658qPDgZ1NIR4gYeSKGDZC
+6bDh4mRGBItOvX6NOKEMFzlOMBhCpAAABCozLMCx0hWswwAlnFjoGmCCChU6nDgJ0uKBwxKIshwQ
+8PKKJEcwGuxwgcDGmA9NA/z4M0PuwwAXmGjpANEjoRANJwyyYyHiAht/Us+FHRti/02ctXXKxp1b
+927cM6RwVKGEwUMBeHUPaHHFBYQFINbcATIjxPCIPiA5YerygYssSpg+sEiFyoKmCsQQmpEgwPoA
+BR6o0HIlwkULdg4ZuSBxQsQCVCJFciIB3gaMibbabrqNQAUXZDC3vDZTsISsgFhDkR1gSgkSIxiA
+EID1GiqBjdAssIABJ7QYrDwxDLmiBQws6OCFn3To0KEI3JDEECMiSICBHiMAkgpDCiFjvwaPNPBA
+QRI8skknn4TyogF0uEKK/GISQAtFpPjAAiC//KCEBgKYQY4UGDjiCiXEgIEhr16Qgw0ruCjjiyAa
+kGmHPx4xJA4pgHjijC72aMSICf9qjBK3JA9kMlFHH4U0URLEoCMNLi69lA5CrLBhDRY/W4ONFhCd
+6QEQbFAhu5kGgI8ONc4gZBFDyggtUt4Wtc1WXXfldTcKSnABBmFh6KAEK+iQAgQQzuw1gAMguIC8
+XnPDNadpr8U2W6cGYEBVbb+FrVoEwSW3XHPPRdclcW1qNF1334U33ibXXVJee+/FN1+n6G1XX3//
+BThdfgMmuGCDsR34YIUXZnheJREUImKJJ6a4YosvxjhjjTfmuGOPPwY5ZJFHJrlkk09GOeWSH2a5
+ZZdfhjlmmWemuWabb8Y5Z5135rlnn38GOmihhya6aKOPRjpppZdmummnn4Y6aqn/p6a6aquvxjpr
+rbfmumuvvwY7bLHHJrtss89GO22112a7bbffhjtuueemu26778Y7b7335rtvv/8GPHDBB7cpjwoO
+PzyM2hBHXGgUDkfBZcMPX7rxsS1X+nHGGd9AcbEnr+Bu0A/fYPHNHYdccsyRXh3s1o/WfPPTwwb9
+wAryeHt0ynGSHfUKIm+5dqVf95r4omOXnXHaV9ccd7d1D/2mNnoPWnPgsTaecJw0H+HAKBBvA23E
+nW8b9BEOD9+mDQ4/f3egrdc6e+1t4l5JxK8ve/zcEQcjdZsQJ0LrkrC50tmPcfgTBPyQVxvhCaJ2
+o0uf6RCXBJjJb3ucU9L0NtcH/wkKYn0VKN0DGRfB/7lPEJY7oAFTBz+W1e9A7UNgGDZHPvqtUHlK
+kiHjaHgT2SFQeMhr3eYQmMDUIS6H0eOdCYdWO8whDg2rS54Sjzi7GkYRiQ7EHOimiD4JUpFlFiwh
+9W4CRMRxkIeQux8WEyc7EkLxcEuQXQHPyLkPDvGCFeie7bh4kw9uznNV7OMNkxhHnEBvdT9M3hij
+WBvNBfKEhzOjTQZYAQoajYm7m9wGnui+I1YBDLFr4/g06D7khSEPsaukGpE4ug3kYYqDrAAReCDI
+h4GRcTwIoBsrYMojyvGRG+wDK11JS12ib5RXZNwIiNA+/z0sdluAJjSLQMvY1f9gmfqrIvuuWUxr
+MlOOjPMkHJspvDYgDwXAO6YsqZnIHPoSjDyr3QdxpzkebBKJmsPDHK/Xx0EqEpJ8zGJAD5fKI95k
+ksj85xeVqEJAAJSShdujIAo6x9s5EKIDvclEwwjLQZIPcVu4yRbS2EIrgm+QZrjJNEn50ZBi7ogN
+tYkZmni4fNqkf+5r4C9piDgZcDSbBXSeLpFWOw1GDnF4sGfL6jjHSFr0jldsYFSD6D7EQQEnKrXj
+HF2mORbg5A3ZG+UgfThVhJa1qdgMq1hbRkYMFpKs/rziL9OHuBrUZqm/rEAVanqgnGJTlYHASR0w
+Fzs9IjGHfyya8BrXOD4Q75P/KdzoWpupyptIVYkzrUANorkFZrbMgogbwWZr8Lo8HNSEfr1oXIWq
+1Y5WMY83gaFkD5eH0iLOl9ncrEgh2Yc+uBC2/kOcF2rzvd2xdQkM1CX5GllY5xG2Nhqs5DvhicI3
+UveKpoXsL7c6Wcuu8q1htKJnF9rFRdrkmF4k7Xcju94wNpd9tYktSX/nU7hG0b14hC9wD4eG2ujW
+sFH8Y19n68/XzvG+drRu0hS7uei6L5AVYMFItStb/HW3suqlKxg0rGHa7rCD4sVjh0XsvC2OoLOs
+detlT7ti1Q6YiCC062QPxMI5+jJ2G94wbf152/gGd7ivw4HseBvM5O6YuVW0/+MHBSFOxCbWctgd
+MmZRapP46pR3G7gejSmb2gurGImIm0PNLPjBJkuwBoFAs3/7iVwvr5m9Vt6yPilcm4OSL63ybXEF
+5nq4uuLkrrX0n4ArmlrA3kSwK52vAcUZVydjkoqWE3SWdTlkLVuYy27mJ1NB7LI7/7LBFRAulVeb
+4jy7ecIGnmNP1SdhJWkZvIOMpEZjV4SWuu+gMBWETHen0VUnWtA7PZyqX41kQNPSkpilarIPtwXi
+kg6WeTimPyssUO+2maJVqIKxC2vFoBpxdFFGXBT8y2K+qvfU54bzi9knxDkXNpV9TMIpJ1jf0MqA
+mIgrAmdtS1FT5iHTccarK+YlyThmrzPRBzItCY+t7IMje4KrOy/zuEvtLpc6o+UFMbcpyrg/YheE
+o674h9lLVmCPsMqtlnE2YdnWbCaSvPteOcdDblAqPrh1rqbvUAfrV4mXsQ+oxSuM7zhtnFLc1OAd
+77bt+1QXX9ykObxeeq09ci/vsJ3Elm9WabnFJiuQ1TjZoocF4XEa5tSDxmY3I1Ne4/m1XWo4h93a
+4VZGt9fdaEZsLdPgPvek293vO2NcvKPdtL2zbZhy/3vib2bIxDmt8GvzouIlr7PkiR1pj1ebtie/
+ec533vOfB33oRT960pfe9GALCAA7
+
+------MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.google.com/logos/Logo_25blk.gif
+
+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
+9tlop6322hwFBAA7
+
+------MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q----
+Content-Type: application/x-httpd-php
+Content-Transfer-Encoding: base64
+Content-Location: https://archive.ics.uci.edu/ml/assets/nsfe.gif
+
+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
+yBwfiYoC5tTgvm8IAiAODwQAOw==
+
+------MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q----
+Content-Type: application/x-httpd-php
+Content-Transfer-Encoding: base64
+Content-Location: https://archive.ics.uci.edu/ml/assets/rexaSmall.jpg
+
+/9j/4AAQSkZJRgABAQEARwBHAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAfAIwDAREA
+AhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAABgkABwUIAwQKAv/EAC0QAAICAgIBBAICAgICAwAA
+AAQFAwYCBwEICQAREhQTFQoWIiMXIRgyM0FC/8QAHQEAAQUBAQEBAAAAAAAAAAAABQACAwQHBgEI
+Cf/EADgRAAICAQMDAgUDAwIEBwAAAAIDAQQFBhESABMhBxQVIiMxQQgyURZCYRckJTNSkRhDU3GB
+obH/2gAMAwEAAhEDEQA/AErdM+k22O9F32HRdS2jUtMK1ZrE3b93s+6rmVQaQmo652tQnMCbCMjf
+RjZiGNBpycjhxARgMCCpzY+I/jzkdKk2+xilGoJSqXsJx9tYqgoGZkuJbbSW/wCP536/WfWmtsVo
+Wlj7+Wq5a6GVyQYijVwtMb9515iW2AAa5PRyggUUDwk2EfEYCd+mT67/AI6/dzb689tqPeXQzaip
+UZivas9cdi3V2XLGGcXE+ADA6uayYiiG5Qc8TcCzS4T/AIcsZOY+MMseeSi9OXHRyRYoOGJ2klWJ
+ZET/ABMiuY36zTIfqM0RiWArK4PXeLa0O4peR08ikxgRPGTWFjJLIwgvEkMTG/jffrp7G/jz9zNO
+8Kudv9gfH/qjh7kTik52T2VaUfhzkFjhmZwqysmtV2LDITCTDMnEXmXKHHPHKTjHHn39eN07bRES
++zj0xO/Hu2ZXy2jeduS4ifHT8f8AqI0Xl+78JwGvsp2OMv8Ah2nFXezz34932+SZ2+XEuPLbfjO3
+26V93D6obL6PbeL0pt9xr+w2oai1PY0TfVtkLttOY1i7BGsK+UreHJ0MpmZAoE02XOAHAvMUg0wx
+JMM2OfoVbqNpP9u2Vkzis4lRcw2b+yYLYf8A8+3nrUtHatxmuMOObxCshXqldt4+U5SsFS6uzSMV
+vFqAc8QgDMdvqct4kTEZid2d2T+Pf3PT1KV1W9t9TtkX/jUYm8Quv1U2S+B3i71sYL+fh4jqtirI
+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
+
+------MultipartBoundary--9cCOypkl7d8jJPAG2nLVR9HBQ6O6Bekdtfc98igk2Q------
